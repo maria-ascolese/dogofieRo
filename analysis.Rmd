@@ -137,11 +137,6 @@ for (i in seq_len(nrow(cd))) {
   Sys.sleep(5)
 }
 
-write_csv2(cd, "cd_testi2.csv")
-```
-
-```{r load-lyrics}
-cd <- read_csv2("cd_testi2.csv")
 ```
 
 ---
