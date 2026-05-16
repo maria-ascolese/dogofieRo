@@ -1,5 +1,4 @@
 ---
-title: "dogofieRo"
 subtitle: "Analyzing Club Dogo's discography with R"
 author: "Maria Ascolese"
 date: "`r Sys.Date()`"
